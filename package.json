@@ -1,0 +1,28 @@
+{
+  "name": "node.js-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/Elizabethhub/Node.js-Course#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elizabethhub/Node.js-Course.git"
+  },
+  "keywords": [],
+  "author": "Yelyzaveta Kudelia <yelyzaveta.kudelia@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elizabethhub/Node.js-Course/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
